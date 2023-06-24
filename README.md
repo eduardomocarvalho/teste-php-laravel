@@ -12,7 +12,7 @@
 7 - php artisan db:seed --class=UserSeed (Criar o usuário)
 
 
-# Endpoints da aplicação (arquivo json exportado do insominia na pasta storage/insomnia:
+# Endpoints da aplicação (arquivo json exportado do insominia na pasta storage/insomnia/Insomnia_2023-06-24.json):
 
 1 -  http://localhost/api/login  (para acessar qualquer endpoint precisamos fazer o login e pegar o bearer gerado, as configurações já estão feitas no header Authorization dos endpoints)
 METHOD: GET 
